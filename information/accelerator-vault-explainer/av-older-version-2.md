@@ -4,7 +4,7 @@
 
 Before going into the mechanics of the Accelerator Vault \(AV as it will now be known\), it's important to understand what the DegenVC Liquid Vault \(LV\) technology entails. The LV is fully described in this [**Medium article**](https://medium.com/degen-vc/liquid-vault-248779b58cfe), and below are the sections that relate to the AV.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 The idea of the LV is ground breaking primarily because Liquidity Pool tokens are essentially offered at a **maximum 50% discount.** This smart contract has 3 economic levers \("levers"\) that can be set in order to create certain conditions of a token's trade:
 
@@ -37,7 +37,7 @@ Leading on from the Liquid Vault, the AV creates the conditions for rapid expans
   
    _**In AV, this now means that liquidity is rapidly enhanced on the OSM token pair - and since a portion will be locked by the team, this further strengthens the underlying token liquidity!**_
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 ### ----------------------------------------------
 

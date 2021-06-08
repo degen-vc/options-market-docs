@@ -28,5 +28,5 @@ description: How we compare..
 
 ### _**0% will go to VCs**_
 
-![A handy guide as to how we are a VAST improvement on Siren&#x2019;s token distribution metrics.](.gitbook/assets/image%20%285%29.png)
+![A handy guide as to how we are a VAST improvement on Siren&#x2019;s token distribution metrics.](../.gitbook/assets/image%20%285%29.png)
 

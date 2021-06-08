@@ -36,7 +36,7 @@ Liquid Vault 1 in our construct remains the AV. We use the 3 AV levers as follow
   
    _**In AV, no permanent lock period will be used.**_
 
-![](../.gitbook/assets/screenshot-2021-03-17-at-17.37.25.png)
+![](../../.gitbook/assets/screenshot-2021-03-17-at-17.37.25.png)
 
 ### ----------------------------------------------
 
@@ -62,7 +62,7 @@ A User will now send OSM to the Holder Vault **TO CLAIM ETH**! It's revolutionar
   
    _**In HV, no permanent lock period will be used.**_
 
-![](../.gitbook/assets/screenshot-2021-03-17-at-17.37.05.png)
+![](../../.gitbook/assets/screenshot-2021-03-17-at-17.37.05.png)
 
 ### ----------------------------------------------
 
