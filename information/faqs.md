@@ -4,7 +4,7 @@ description: >-
   Options.Market
 ---
 
-# FAQs
+# ❓ FAQs
 
 ## What is Options.Market?
 

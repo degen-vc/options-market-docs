@@ -4,7 +4,7 @@
 
 ## Options.Market <a id="information"></a>
 
-* [FAQs](information/faqs.md)
+* [❓ FAQs](information/faqs.md)
 * [📜 Founding AMA](information/ama.md)
 * [💥 Telegram Group Pin](information/telegram-group-pin.md)
 * [📒 Token Distribution Analysis](information/token-distribution-analysis.md)
